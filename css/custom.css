@@ -1,1 +1,6 @@
-/* your styles go here */
+body, body .container-wrap, body .home-wrap, body #page-header-wrap {
+  background-color: #d3d3d3;
+}
+html body, html body p {
+  color: #000!important;
+}
